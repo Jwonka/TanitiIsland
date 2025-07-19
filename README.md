@@ -14,7 +14,6 @@ This is a fictional tourism website created as a school project to promote **Tan
 - HTML5
 - CSS3 (Flexbox & Grid)
 - JavaScript
-- [Bootstrap](https://getbootstrap.com/)
 
 ## Preview
 
