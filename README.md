@@ -22,6 +22,6 @@ Visit the live site: [jwonka.github.io/TanitiIsland](https://jwonka.github.io/Ta
 
 ## Project Purpose
 
-Created as part of a web development course to practice building semantic, responsive, and accessible websites.
+Created as part of a UI/UX web development course to practice building semantic, responsive, and accessible websites.
 
 ---
